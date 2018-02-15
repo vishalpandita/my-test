@@ -1,0 +1,2 @@
+this is the new test file created on local for the first time. It doesnot exist on the repository yet.
+What is being said is that git commit -a will not work now. You need to get it done via git add. let's see.
